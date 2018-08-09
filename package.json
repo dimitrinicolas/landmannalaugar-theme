@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "landmannalaugar",
+        "label": "Landmannalaugar",
         "uiTheme": "vs-dark",
         "path": "./themes/landmannalaugar-color-theme.json"
       }
