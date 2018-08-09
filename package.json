@@ -1,0 +1,42 @@
+{
+  "name": "landmannalaugar",
+  "displayName": "Landmannalaugar",
+  "description": "VSCode dark color theme inspired by Icelandic Landmannalaugar mountains",
+  "version": "1.0.0",
+  "publisher": "dimitrinicolas",
+  "icon": "icon-128x128.png",
+  "engines": {
+    "vscode": "^1.25.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "landmannalaugar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/landmannalaugar-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitrinicolas/landmannalaugar-theme.git"
+  },
+  "author": {
+    "name": "Dimitri NICOLAS",
+    "email": "dimitri@fivecorp.fr"
+  },
+  "keywords": [
+    "vscode",
+    "color",
+    "theme",
+    "dark"
+  ],
+  "bugs": {
+    "url": "https://github.com/dimitrinicolas/landmannalaugar-theme/issues"
+  },
+  "homepage": "https://github.com/dimitrinicolas/landmannalaugar-theme"
+}
