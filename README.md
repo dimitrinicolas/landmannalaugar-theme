@@ -1,4 +1,4 @@
-# Landmannalaugar VS Code Theme
+# Landmannalaugar VS Code Theme [![](https://vsmarketplacebadge.apphb.com/version/dimitrinicolas.landmannalaugar.svg)](https://marketplace.visualstudio.com/items?itemName=dimitrinicolas.landmannalaugar)
 
 ![Color Theme Demo](fixtures/theme.png)
 
