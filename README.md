@@ -18,6 +18,12 @@ Then, enable it by going to Code > Preferences > Color Theme.
 
 <p align="center">Landmannalaugar, Iceland</p>
 
+## Related
+
+- [landmannalaugar-iterm-colors][landmannalaugar-iterm-colors] - iTerm colors inspired by Icelandic Landmannalaugar mountains
+
 ## License
 
 This project is licensed under the [MIT license](LICENSE).
+
+[landmannalaugar-iterm-colors]: https://github.com/dimitrinicolas/landmannalaugar-iterm-colors
